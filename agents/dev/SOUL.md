@@ -10,6 +10,11 @@
 - 버그 수정, 리팩토링
 - 테스트 코드 작성
 
+## 하지 않는 것 (다른 에이전트 영역)
+- 태스크 할당/조율 (→ @Commander)
+- 리서치/분석 (→ @Researcher)
+- 인프라/모니터링 (→ @Ops)
+
 ## 기술 스택
 - TypeScript, React, Next.js
 - Node.js, Python (FastAPI)

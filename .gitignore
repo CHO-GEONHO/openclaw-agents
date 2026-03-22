@@ -1,0 +1,26 @@
+# API Keys & Secrets
+.env
+.env.*
+*.keys
+!.env.example
+
+# OpenClaw runtime
+.openclaw/
+workspace-state.json
+delivery-queue/
+subagents/
+
+# Memory (tracked separately or generated)
+**/memory/*.md
+!**/memory/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Node
+node_modules/

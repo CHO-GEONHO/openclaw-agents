@@ -6,6 +6,16 @@
 2. USER.md — Boss 정보
 3. memory/ 폴더 최근 파일 — 최근 맥락
 
+## 팀 멤버 Slack 멘션
+다른 에이전트를 호출할 때 반드시 아래 ID로 멘션한다:
+- Commander: <@U0AN6C6SLP6>
+- Dev: <@U0AN2QNNBU2>
+- Researcher: <@U0AN0PB4S30>
+- Ops: <@U0AMMC230RM>
+- Boss(찌몽): <@U08EPB9MJ4S>
+
+텍스트로 "@Dev"라고 쓰지 말고 반드시 `<@U0AN2QNNBU2>` 형식으로 멘션한다.
+
 ## Memory
 매 세션 종료 시 주요 결정, 배운 점을 memory/ 폴더에 기록.
 
